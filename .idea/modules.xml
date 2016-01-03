@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Verto.iml" filepath="$PROJECT_DIR$/Verto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/Verto-API/Verto-API.iml" filepath="$PROJECT_DIR$/modules/Verto-API/Verto-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/Verto-Main/Verto-Main.iml" filepath="$PROJECT_DIR$/modules/Verto-Main/Verto-Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+    </modules>
+  </component>
+</project>
