@@ -1,9 +1,18 @@
 package io.puharesource.osrs.verto;
 
-import org.osbot.rs07.script.Script;
+import io.puharesource.osrs.verto.api.Script;
+import io.puharesource.osrs.verto.api.entity.player.Player;
 
-public final class VScript {
-    private void test(final Script script) {
+import java.util.Set;
 
+public final class VScript implements Script {
+    @Override
+    public Set<Player> getNearbyPlayers() {
+        return null;
+    }
+
+    @Override
+    public Player getThePlayer() {
+        return null;
     }
 }

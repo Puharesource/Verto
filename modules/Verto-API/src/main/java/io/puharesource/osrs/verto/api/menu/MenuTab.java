@@ -1,17 +1,18 @@
 package io.puharesource.osrs.verto.api.menu;
 
 public enum MenuTab {
-    COMBAT,
-    STATS,
-    QUEST_LIST,
-    INVENTORY,
-    WORN_EQUIPMENT,
-    PRAYER,
+    EQUIPMENT,
+    FRIENDS,
     MAGIC,
-    FRIENDS_LIST,
-    IGNORE_LIST,
-    CLAN_CHAT,
-    OPTIONS,
+    MUSIC,
+    PRAYER,
+    CLANCHAT,
+    SETTINGS,
+    INVENTORY,
+    LOGOUT,
     EMOTES,
-    MUSIC_PLAYER
+    SKILLS,
+    IGNORES,
+    ATTACK,
+    QUEST
 }
